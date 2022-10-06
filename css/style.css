@@ -481,6 +481,7 @@ header .intro-text {
 /* Team Section */
 #team {
   padding: 0px 0;
+  background: #f6f6f6;
 }
 #team h4 {
   margin: 5px 0;
