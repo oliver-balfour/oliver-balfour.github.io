@@ -264,48 +264,25 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  padding: 80px 0;
+  padding: 80px 0 30px;
 }
 #about h3 {
-  font-size: 22px;
-  margin: 0 0 20px;
+  color: #fff;
 }
 #about h2 {
-  padding: 20px;
   position: relative;
-  font-size: 50px;
-  margin-bottom: 15px;
-  padding-bottom: 15px;
-}
-#about h2::after {
-  position: absolute;
-  content: "";
-  background: linear-gradient(to right, #ea6b7d 0%, #e93a4c 100%);
-  height: 4px;
-  width: 60px;
-  bottom: 0;
-  left: 0;
+  color: #fff;
+  font-size: 3.5vw;
 }
 #about .about-text li {
-  margin-bottom: 6px;
-  margin-left: 6px;
   list-style: none;
   padding: 0;
 }
-#about .about-text li:before {
-  content: "\f00c";
-  font-family: "FontAwesome";
-  color: #ea6b7d;
-  font-size: 11px;
-  font-weight: 300;
-  padding-right: 8px;
-}
 #about img {
-  width: 520px;
-  margin-top: 10px;
+  width: 100%;
+  padding: 10px 7% 0 7%;
   background: #fff;
   border-right: 0;
-  box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
 }
 #about p {
   line-height: 24px;
