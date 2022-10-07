@@ -269,10 +269,15 @@ header .intro-text {
 #about h3 {
   color: #fff;
 }
-#about h2 {
-  position: relative;
-  color: #fff;
+#about .h2-about-red{
+  color: #fc3448;
   font-size: 4vw;
+  padding-bottom: 0;
+}
+#about h2 {
+  color: #fff;
+  font-size: 3.5vw;
+  background: rgba(0, 0, 0, 0.5);
 }
 #about .about-text li {
   list-style: none;
