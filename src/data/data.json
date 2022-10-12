@@ -1,13 +1,11 @@
 {
   "Header": {
-    "title": "Invertí en la próxima superestrella",
+    "title": "Invertí en talento",
     "paragraph": "Convertite en sponsor de promesas locales y obtené beneficios con el crecimiento de su carrera."
   },
   "About": {
-    "paragraph": "Patrocima es una plataforma que conecta a personas con un gran talento (artistas, deportistas, atletas, influencers, youtubers, etc) con aquellas que quieren impulsar su carrera con un compromiso financiero.",
-    "paragraph2": "Nuestro objetivo es permitir que cada talento con gran potencial se financie y logre llevar su carrera al máximo. Por otro lado, el usuario se beneficiará con un porcentaje pequeño de sus ganancias futuras.",
-    "paragraph3": "Hay miles de talentosos que tienen la oportunidad de lograrlo, pero carecen de capital y red.",
-    "paragraph4": "Juntos, podemos potenciar su crecimiento."
+    "paragraph": "En la plataforma vas a poder conectarte con personas de gran talento (artistas, deportistas, atletas, influencers, youtubers, etc) e impulsar su carrera a cambio de recibir un porcentaje de sus ganancias futuras.",
+    "paragraph2": "Convertite en sponsor de promesas locales y obtené beneficios con el crecimiento de su carrera."
   },
   "Gallery": [
     {
@@ -105,30 +103,29 @@
       "name": "John Doe"
     }
   ],
-  "Team": [
-    {
-      "img": "img/team/03.jpg",
-      "name": "Sol Almagro",
-      "job": "CMO & Co-Founder"
-    },
-    {
-      "img": "img/team/01.jpg",
-      "name": "Vicente Robirosa",
-      "job": "CEO & Co-Founder"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Oliver Balfour",
-      "job": "CTO & Co-Founder"
-    }
-  ],
+  "Team": {
+    "members": [
+      {
+        "img": "img/team/03.jpg",
+        "name": "Sol Almagro",
+        "job": "CMO & Co-Founder"
+      },
+      {
+        "img": "img/team/01.jpg",
+        "name": "Vicente Robirosa",
+        "job": "CEO & Co-Founder"
+      },
+      {
+        "img": "img/team/02.jpg",
+        "name": "Oliver Balfour",
+        "job": "CTO & Co-Founder"
+      }
+    ]
+  },
   "Contact": {
     "address": "Recoleta, Buenos Aires, Argentina",
     "phone": "+1 123 456 1234",
-    "email": "info@patrocima.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "email": "info@patrocima.com"
   },
   "Features": [
     {
@@ -151,5 +148,10 @@
       "title": "Éxito",
       "text": "Cuando el talento se convierte en profesional, comparte una parte de sus ganancias con los patrocinadores."
     }
-  ]
+  ],
+  "Footer": {
+    "instagram": "https://www.instagram.com/patrocima",
+    "twitter": "https://twitter.com/patrocima",
+    "tiktok": "https://www.tiktok.com/@patrocima"
+  }
 }

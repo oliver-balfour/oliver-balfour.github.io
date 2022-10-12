@@ -35,7 +35,7 @@ export const Contact = (props) => {
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
-                <h2>¿Tenés talento y necesitas apoyo económico?</h2>
+                <h2>¿Tenés algún talento y necesitas apoyo económico?</h2>
                 <p>
                   Mandanos un mensaje y te vamos a estar contactando a la brevedad para asesorarte sobre el sistema de acuerdos.
                 </p>
@@ -77,7 +77,7 @@ export const Contact = (props) => {
                     id='message'
                     className='form-control'
                     rows='4'
-                    placeholder='Mensaje'
+                    placeholder='Contá tu historia'
                     required
                     onChange={handleChange}
                   ></textarea>

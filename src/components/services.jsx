@@ -37,7 +37,7 @@ export const Services = (props) => {
             Si te suscribis ahora obtenés AR$500 para que realices tu primera inversión.
           </h3>
           <p>
-            Comenza a invertir en algún talento. Suscribite a nuestro newsletter y enterate cuando salen los primeros tokens.
+            Sumate a la lista de espera. Suscribite a nuestro newsletter y enterate cuando publiquemos los primeros talentos en Diciembre.
           </p>
         </div>
 
